@@ -1,0 +1,22 @@
+#logo {
+	font-size: 128px;
+	color: #d82c08;
+	text-align: left;
+	width: 50%;
+}
+
+hr {
+	height: 3px;
+    background-color: #333;
+}
+
+
+#footer{
+	text-align: center;
+	background-color: #808080;
+}
+
+#footer-name{
+	color: white;
+	font-weight: 900;
+}
